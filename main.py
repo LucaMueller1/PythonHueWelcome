@@ -3,7 +3,6 @@ import requests
 import json
 
 # local ip of device to scan for
-
 IP_DEVICE = "192.168.178.XX"
 
 # hue api with token
